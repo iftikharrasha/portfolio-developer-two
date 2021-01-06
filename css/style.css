@@ -50,6 +50,11 @@ header ul li a {
 
 .section-four {
 	width: 100%;
+	padding: 100px 0;
+}
+
+.section-five {
+	width: 100%;
 	margin-top: 150px;
 	margin-bottom: 100px;
 }
@@ -66,7 +71,7 @@ header ul li a {
 }
 
 .m-top {
-	margin-top: 100px;
+	margin-top: 70px;
 }
 
 h1 {
@@ -88,6 +93,7 @@ h3 {
 	font-size: 24px;
 	font-weight: 700;
 	line-height: 28px;
+	color: #ff8063;
 }
 
 h4 {
@@ -116,6 +122,10 @@ h6 {
 	margin: 20px 0;
 }
 
+p {
+	color: #ffffff80;
+}
+
 .text-center {
 	text-align: center;
 	letter-spacing: 1px;
@@ -132,7 +142,6 @@ h6 {
 .intro {
 	padding: 0 150px 25px 0;
 	line-height: 24px;
-	color: #ffffff80;
 }
 
 .intro2 {
@@ -165,14 +174,13 @@ h6 {
 .img3 {
 	width: 80%;
 	margin: 0 auto;
-	padding-left: 3%;
 }
 
 .project {
 	width: 30%;
 	float: left;
-	margin-left: 3%;
-	margin-top: 75px;
+	margin-left: 2%;
+	margin-top: 50px;
 	text-align: center;
 }
 
@@ -208,4 +216,23 @@ h6 {
 
 .icon img {
 	width: 70%;
+}
+
+.templates {
+	width: 60%;
+	margin: 0 auto;
+}
+
+.templates p {
+	margin-bottom: 45px;
+}
+
+.mockups .mock-img {
+	padding: 6px;
+	display: inline;
+}
+
+.mock-img img {
+	height: 255px;
+	margin-bottom: 15px;
 }
